@@ -1,0 +1,66 @@
+.button{
+    cursor: pointer;
+}
+
+body {
+    background-image: url("pics/images/white.jpg");
+    
+    background-repeat: no-repeat;
+  
+    background-size: cover;
+  }
+  .imgg {
+    border: 5px solid rgb(15, 15, 15);
+  }
+  .imggg {
+    border: 5px solid rgb(22, 21, 21);
+  }
+  .imgggg {
+    border: 5px solid rgb(238, 226, 226);
+  }
+  .fest{
+    
+    text-align: center;
+    font-size: x-large;
+ 
+    background-color: transparent;
+    border: 1px solid transparent;
+    margin-right: 10px;
+    margin-bottom: 1px;
+    float:left
+  }
+
+  .caption-bottom {
+    position: absolute;
+    left: 17px;
+    bottom: 0;
+    padding: 10px 10px;
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    width: 91%;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+}
+.caption-bottom1 {
+  position: absolute;
+  left: 20px;
+  bottom: 0;
+  padding: 10px 10px;
+  background: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  width: 89.5%;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 500;
+}
+img:hover {  border:2px solid rgb(238, 231, 231);  box-shadow: 0 0 10px #333; 
+   -webkit-box-shadow: 0 0 10px #333;  -moz-box-shadow: 0 0 10px #333; 
+    -o-box-shadow: 0 0 10px #333;  -ms-box-shadow: 0 0 10px #333;
+  }
+  img{
+    cursor: pointer;
+}
+

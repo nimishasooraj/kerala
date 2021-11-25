@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\bootstrap"
+		},
+		{
+			"path": "..\\..\\kerala"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "nimisha"
+	}
+}
